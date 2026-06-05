@@ -23,7 +23,7 @@ I am on a daily journey to master digital hardware development.
 
 - 🔭 I’m currently working on learning new new project idea from my b tech searches ..present idea is orbital cycle which is about space technology to detect space junk ..
 - 🌱 I’m currently learning verilog coding..
-- 📫 How to reach me: bhargavi.varma0107@gmail.com.Kindly
+- 📫 How to reach me: bhargavi.varma0107@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: I talk alot 
 -->
