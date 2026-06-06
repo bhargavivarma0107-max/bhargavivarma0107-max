@@ -17,7 +17,7 @@ I am on a daily journey to master digital hardware development.
 
 - ✅ **Day 0:** Half Adder (`half_adder.v`)
 - ✅ **Day 1:** Full Adder (`full_adder.v`)
-- ⏳ **Day 2:** 2-to-1 Multiplexer *(Coming tomorrow!)*
+- ✅**Day 2:** 2-to-1 Multiplexer *('mux_2 to 1.v')*
 - !--
 **bhargavivarma0107-max
 
